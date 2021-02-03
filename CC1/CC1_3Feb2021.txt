@@ -1,0 +1,18 @@
+
+
+########################################
+####### To do by 9 February 2021 ######
+########################################
+
+# Load ELfriend
+# Create graph; see its basic properties; view nodes; view edges; calculate in- and out-degrees; view the neighbors of one node of your choice; plot graph
+# Replace two edges of your choice and re-do the above
+# Remove three nodes of your choice and re-do the above
+
+
+# Repeat the same exercice with ELcowork
+
+## Careful: ELfriend is an asymmetric matrix (like ELadvice), while ELcowork is symmetric
+
+
+### Email your jupyter notebook (with outputs) to paola.tubaro@lri.fr by 9 February, 2pm
