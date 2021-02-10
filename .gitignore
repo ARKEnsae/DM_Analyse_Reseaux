@@ -4,3 +4,5 @@
 .Ruserdata
 CC1/tuto_cours
 CC1/.ipynb_checkpoints
+*.ipynb_checkpoints
+*.DS_Store
