@@ -1,0 +1,57 @@
+Attributs des noeuds
+
+
+Qualification:
+
+1 partenaire
+2 ami
+3 membre de la famille
+4 collègue de travail
+5 professionnel de santé
+6 autre
+
+
+
+Sexe
+
+1 femme
+2 homme
+
+
+
+Multiplexité
+
+1 Présent seulement en face-à-face
+2 Présent seulement en ligne
+3 En ligne et en face-à-face
+
+
+
+Soutien
+
+1 Non
+2 Oui
+
+
+
+Proximité
+
+1 Peu proche
+2 Proche
+3 Très proche
+4 Intime
+
+
+
+Attributs des liens
+
+
+Force
+
+1 pour tous les noeuds
+
+
+Type
+
+1 Face-à-face
+2 En ligne
